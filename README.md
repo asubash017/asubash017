@@ -1,79 +1,113 @@
 <h1 align="center">Hi 👋, I'm Subash Adhikari</h1>
-<h3 align="center">Aspiring Software Developer 🌟 | Lifelong Learner</h3>
+<h3 align="center">Aspiring Software Developer | Lifelong Learner</h3>
 
 <br>
 
 <p align="center">
-  I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+impactful+solutions;Web+Development+Enthusiast;Exploring+emerging+technologies" alt="Typing SVG" /></a>
 </p>
 
 <br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=asubash017&label=Profile%20views&color=0e75b6&style=flat" alt="asubash017" />
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=asubash017&label=Profile%20views&color=0e75b6&style=flat)
+  ![Years of Experience](https://img.shields.io/badge/Years%20of%20Coding-2+-brightgreen)
+  ![Commit Activity](https://img.shields.io/badge/Commit%20Activity-High-blue)
+
+</div>
 
 <br>
 
-<!-- Connect + GIF section as clean, borderless table -->
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <!-- Left: Connect links -->
-    <td style="width: 55%; vertical-align: top; padding: 0;">
-      <h3>🌐 Connect with me:</h3>
-      <p style="margin: 0;">
-        <a href="https://linkedin.com/in/asubash017" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" alt="LinkedIn"/>
-          <span style="font-size: 14px;">linkedin.com/in/asubash017</span>
-        </a>
-        <br>
-        <a href="mailto:asubash017@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" width="35" alt="Gmail"/>
-          <span style="font-size: 14px;">asubash017@gmail.com</span>
-        </a>
-      </p>
-    </td>
+## 🚀 About Me
 
-    <!-- Right: GIF -->
-    <td style="width: 45%; vertical-align: top; text-align: right; padding: 0;">
-      <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="animation gif"/>
-    </td>
-  </tr>
-</table>
-
+I'm a passionate software developer with expertise in building full-stack web applications. I enjoy solving complex problems and continuously expanding my skill set to stay at the forefront of technology trends.
 
 <br>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=asubash017&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asubash017&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asubash017&theme=dark&hide_border=false&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="400" alt="Coding Animation"/>
+</div>
 
 <br>
 
-<h3 align="left">🏆 Trophies:</h3>
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=asubash017&theme=onedark" alt="asubash017" />
-</p>
+## 📈 GitHub Stats
 
-<hr>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=asubash017&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asubash017&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asubash017&theme=radical&hide_border=false" alt="GitHub Streak" />
+  
+</div>
 
-✨ *Always learning, always building.*  
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=asubash017&theme=onedark&no-frame=true&row=2&column=4)
+  
+</div>
+
+<br>
+
+## ✨ Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asubash017&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  
+</div>
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asubash017)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asubash017@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+  <p>✨ <i>Always learning, always building.</i> ✨</p>
+  
+</div>
