@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<p><img align="right" src="assets/code.gif" width="250" alt="coding gif" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="coding gif" /></p>
 
 
 <h3 align="left">🌐 Connect with me:</h3>
