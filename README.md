@@ -2,8 +2,11 @@
 <h3 align="center">Aspiring Software Developer 🌟 | Lifelong Learner</h3>
 
 <br>
-<h>I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies.</h>
-<br>
+
+<p align="center">
+  I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies.
+</p>
+
 <br>
 
 <p align="left">
@@ -11,26 +14,28 @@
 </p>
 
 <br>
-<p style="float: right; margin-left: 20px;">
-  <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="animation gif" />
-</p>
 
+<!-- Connect + GIF section -->
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 55%;">
+    <h3>🌐 Connect with me:</h3>
+    <p>
+      <a href="https://linkedin.com/in/asubash017" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+        https://www.linkedin.com/in/asubash017
+      </a>
+      <br><br>
+      <a href="mailto:asubash017@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40" alt="Gmail"/>
+        asubash017@gmail.com
+      </a>
+    </p>
+  </div>
 
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/asubash017" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-    https://www.linkedin.com/in/asubash017
-  </a>
-  <br><br>
-  <a href="mailto:asubash017@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40"/>
-    asubash017@gmail.com
-  </a>
-</p>
-
-
+  <div style="display: inline-block; vertical-align: top; width: 40%; text-align: right;">
+    <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="animation gif"/>
+  </div>
+</div>
 
 <br>
 
@@ -49,10 +54,13 @@
 <br>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=asubash017&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asubash017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asubash017&theme=dark&hide_border=false&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=asubash017&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asubash017&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asubash017&theme=dark&hide_border=false&layout=compact" />
+</p>
 
 <br>
 
@@ -61,5 +69,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=asubash017&theme=onedark" alt="asubash017" />
 </p>
 
----
+<hr>
+
 ✨ *Always learning, always building.*  
