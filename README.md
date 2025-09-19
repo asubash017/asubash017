@@ -1,7 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Software Developer | 🌱 Lifelong Learner<br><br>I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies. Currently, I’m focusing on:<br><br>🔭 Building ADK EduHub – a Django-based educational management platform<br><br>💡 Exploring Python, Django, JavaScript, and system networking concepts
-
-
+💻 Aspiring Software Developer | 🌱 Lifelong Learner<br><br>I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies. 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subash-adhikari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/asubash0710) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asubash017@gmail.com) 
 
