@@ -15,27 +15,32 @@
 
 <br>
 
-<!-- Connect + GIF section -->
-<div>
-  <div style="display: inline-block; vertical-align: top; width: 55%;">
-    <h3>🌐 Connect with me:</h3>
-    <p>
-      <a href="https://linkedin.com/in/asubash017" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-        https://www.linkedin.com/in/asubash017
-      </a>
-      <br><br>
-      <a href="mailto:asubash017@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40" alt="Gmail"/>
-        asubash017@gmail.com
-      </a>
-    </p>
-  </div>
+<!-- Connect + GIF section as clean, borderless table -->
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <!-- Left: Connect links -->
+    <td style="width: 55%; vertical-align: top; padding: 0;">
+      <h3>🌐 Connect with me:</h3>
+      <p style="margin: 0;">
+        <a href="https://linkedin.com/in/asubash017" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35" alt="LinkedIn"/>
+          <span style="font-size: 14px;">linkedin.com/in/asubash017</span>
+        </a>
+        <br>
+        <a href="mailto:asubash017@gmail.com" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" height="25" width="35" alt="Gmail"/>
+          <span style="font-size: 14px;">asubash017@gmail.com</span>
+        </a>
+      </p>
+    </td>
 
-  <div style="display: inline-block; vertical-align: top; width: 40%; text-align: right;">
-    <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="animation gif"/>
-  </div>
-</div>
+    <!-- Right: GIF -->
+    <td style="width: 45%; vertical-align: top; text-align: right; padding: 0;">
+      <img src="https://raw.githubusercontent.com/asubash017/asubash017/main/assets/animation.gif" width="250" alt="animation gif"/>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
