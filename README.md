@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bachelor’s in Computer Applications (BCA) student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner<br><br>I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies. Currently, I’m focusing on:<br><br>🔭 Building ADK EduHub – a Django-based educational management platform<br><br>💡 Exploring Python, Django, JavaScript, and system networking concepts
+💻 Aspiring Software Developer | 🌱 Lifelong Learner<br><br>I’m passionate about building impactful software solutions and exploring the intersection of web development, networking, and emerging technologies. Currently, I’m focusing on:<br><br>🔭 Building ADK EduHub – a Django-based educational management platform<br><br>💡 Exploring Python, Django, JavaScript, and system networking concepts
 
 
 ## 🌐 Socials:
