@@ -57,7 +57,7 @@ I'm a passionate software developer with expertise in building full-stack web ap
 
 <br>
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
   
@@ -70,13 +70,13 @@ I'm a passionate software developer with expertise in building full-stack web ap
   
 </div>
 
-<br>
+<br> -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=asubash017&theme=onedark&no-frame=true&row=2&column=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=asubash017&theme=onedark&no-frame=true&row=2&column=8)
   
 </div>
 
