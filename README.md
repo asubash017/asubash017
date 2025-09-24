@@ -82,7 +82,7 @@ I'm a passionate software developer with expertise in building full-stack web ap
 
 <br>
 
-## ✨ Contribution Graph
+<!--## ✨ Contribution Graph
 
 <div align="center">
   
@@ -90,7 +90,7 @@ I'm a passionate software developer with expertise in building full-stack web ap
   
 </div>
 
-<br>
+<br>-->
 
 ## 🌐 Connect With Me
 
